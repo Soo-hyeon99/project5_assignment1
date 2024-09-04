@@ -1,0 +1,17 @@
+### git 으로 파일 관리하기!
+
+1. 폴더 생성 후 폴더 열기
+
+2. 폴더 안에 파일 생성해서 코드 작성하기
+
+3. git 초기화 및 commit을 위한 계정 정보 등록
+
+4. github에 연결하기 (remote)
+    4-1 github에 레파지토리 만들기
+    4-2 remote 명령어로 github와 로컬 컴퓨터 연결하기
+    4-3 git push -u origin main 명령어로 첫 push 해주기
+
+5. add / commit / push 이용해서 git으로 형상관리 하면 됨
+
+6. branch 만들어서 코드 관리하기
+branch 만든 후 만든 branch로 이동해서 코드 작성 -> 코드가 잘 돌아가면 main으로 와서 branch 병합
